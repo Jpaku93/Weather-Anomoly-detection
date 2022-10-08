@@ -28,7 +28,7 @@ I explain my thought process and analysis of approaching weather anomalies accor
 ![image](https://user-images.githubusercontent.com/65574434/194700483-0550f28b-bf85-45bc-9f21-7584a224f12f.png)
 
 ### outside the 95th percentile Anomaly  
-* approximately 3.8m of rainfall is most certainly extreme anomaly
+* approximately more than 3.8m of rainfall is most certainly extreme anomaly
 ![image](https://user-images.githubusercontent.com/65574434/194700606-987201bb-d66b-4dfa-93a7-6d711e75b4c1.png)
 
 ### Isolation forest
